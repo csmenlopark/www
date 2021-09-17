@@ -9,6 +9,10 @@ path = "/lectures-and-events/"
 
 # Upcoming Lectures & Events
 
+* [**Breaking News: Freedom Is Ours
+Now**](/lectures-and-events/breaking-news-freedom-is-ours-now-2021/) —
+a lecture given by **Patricia Woodard, CS**, on October 2, 2021.
+
 Many lectures are happening each week around the world, and most are broadcast
 online. You can use ChristianScience.com's
 <a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">Find a lecture</a>
