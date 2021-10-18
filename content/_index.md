@@ -18,14 +18,6 @@ keywords = [
 ]
 +++
 
-<aside class="announcement-banner">
-  <a href="/lectures-and-events/breaking-news-freedom-is-ours-now-2021/">
-    <strong>Upcoming lecture:</strong>
-    <span style="text-decoration: underline">Breaking News: Freedom Is Ours Now</span>
-    on Saturday, October 2, at Burgess Park.
-  </a>
-</aside>
-
 <p><img alt="" src="/media/church-front.jpg" class="home-image"></p>
 
 <div class="content-and-sidebar">
