@@ -5,11 +5,23 @@ path = "/healings/"
 
 <div>
 
+These are testimonies of healing written by members and attendees of our church
+that have been published in the [Christian Science Sentinel].
+
+[Christian Science Sentinel]: https://sentinel.christianscience.com/
+
+## Jump to a specific testimony:
+
+* [Prayer eliminates the need for Caesarean delivery](#prayer-eliminates-the-need)
+* [When my friend asked me about my religion](#when-my-friend-asked-me)
+* [What does it mean to live in God’s kingdom?](#what-does-it-mean-to-live)
+* [Peace came on a ‘Gabriel’ day](#peace-came-on-a-gabriel-day)
+
 <article>
 
-# Prayer eliminates the need for Caesarean delivery
+# Prayer eliminates the need for Caesarean delivery {#prayer-eliminates-the-need}
 
-Susan Norris, member of Menlo Park church since *&lt;year&gt;*<br>
+Susan Norris, member of Menlo Park church since 1991<br>
 *(Originally published in the April 5, 2004 issue of the Christian Science Sentinel)*
 
 When I was pregnant with my oldest daughter, I was just starting to study
@@ -22,6 +34,8 @@ God—already perfectly formed. As the Mind of all creation, God knows us each a
 His fully developed ideas. Understanding this has practical, healing effects on
 our lives. The pregnancy proceeded smoothly, and I didn't have any unpleasant
 symptoms.
+
+<img class="float-left" src="/media/healings/tree-sunlight.jpg">
 
 About five weeks before the baby was due to be born, she spent one entire day
 moving. At the end of the day, I could tell she had turned around and was no
@@ -70,15 +84,18 @@ San Carlos, California
 
 <article>
 
-# When my friend asked me about my religion
+# When my friend asked me about my religion {#when-my-friend-asked-me}
 
-Jacey Williams, member of Menlo Park church
+Jacey Williams, attendee of Menlo Park church<br>
+*(Originally published on August 20, 2019 on the Christian Science Sentinel website)*
 
 One day I was hanging out with a friend from work, and we were having a great
 time talking about our lives. I felt the conversation was going super well—that
 I was really connecting with her emotionally and we were coming to a better
 understanding of each other’s life experiences. At one point, though, religion
 came up, and she asked me what my religion was.
+
+<img class="float-right" src="/media/healings/hikers.jpg">
 
 I was a little nervous about answering her question, because people tend to have
 a lot of prejudgment about religion in general. Plus, Christian Science is a
@@ -137,9 +154,10 @@ taught me about how to love.
 
 <article>
 
-# What does it mean to live in God’s kingdom?
+# What does it mean to live in God’s kingdom? {#what-does-it-mean-to-live}
 
-Tyler Williams
+Tyler Williams, attendee of Menlo Park church<br>
+*(Originally published in the April 16, 2018 issue of the Christian Science Sentinel)*
 
 About midway through a two-week service trip to Guatemala, my group took a
 weekend excursion to Santa Cruz la Laguna. Shortly after we returned, some of
@@ -147,6 +165,8 @@ the students I was traveling with began to feel unwell. A day or two later, I
 also began to feel ill. I thought, “Oh, no. This is going to be awful,” because
 some of my friends had described how they’d felt while they were sick, and I
 didn’t want that to happen to me.
+
+<img class="float-left" src="/media/healings/mountain-sunset.jpg">
 
 After breakfast that day, I went to the Christian Science practitioner who had
 traveled with us and asked for her help in finding a place to begin with my
@@ -199,9 +219,10 @@ healing at a testimony meeting.
 
 <article>
 
-# Peace came on a ‘Gabriel’ day
+# Peace came on a ‘Gabriel’ day {#peace-came-on-a-gabriel-day}
 
-Alexandra Hawley
+Alexandra Hawley, member of Menlo Park church<br>
+*(Originally published in the October 13, 2014 issue of the Christian Science Sentinel)*
 
 A healing I had a few years ago while serving as First Reader at our branch
 Church of Christ, Scientist, brought me a lesson that has often been helpful.
@@ -235,6 +256,8 @@ contests. To infinite, ever-present Love, all is Love, and there is no error, no
 sin, sickness, nor death” (Science and Health, p. [567]).
 
 [567]: https://login.concord.christianscience.com/concord3/search/?query=567%3A3-8%20These&book=tfccs.main.sh
+
+<img class="float-right" src="/media/healings/bible-study.jpg">
 
 As we drove, I committed to keeping my thought filled with gratitude and with
 the recognition of peace and my true health as the expression of Spirit. I had
@@ -277,9 +300,6 @@ I am so grateful for the prayer and support of the practitioner in this healing.
 It has been an ongoing reminder to me in subsequent times that when we receive a
 clear message from God, we can trust that the message always comes complete,
 with whatever guidance and healing we may need.
-
-Alexandra Hawley
-Atherton, California, US
 
 > I am Gabriel, that stand in the presence of God.  
 > —Luke 1:19
