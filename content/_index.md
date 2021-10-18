@@ -6,14 +6,16 @@ description = """\
   are His beloved children. Understanding God's nature and His power leads to \
   healing in individual lives, as well as in the community and the world.\
   """
-keywords = [
-  "Christian Science",
-  "healing",
-]
 aliases = [
   "/about-us/",
 ]
 template = "page.html"
+
+[extra]
+keywords = [
+  "Christian Science",
+  "healing",
+]
 +++
 
 <aside class="announcement-banner">

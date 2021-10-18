@@ -8,7 +8,7 @@
   <meta name=description content="{{ obj.description }}">
   {% endif -%}
   {% if obj.extra.keywords -%}
-  <meta name=keywords content="{{ obj.extra.keywords }}">
+  <meta name=keywords content="{{ obj.extra.keywords | join(sep=",") }}">
   {% endif -%}
   <meta name=viewport content="width=device-width">
   <link rel=stylesheet href="/assets/style.css">
