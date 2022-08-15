@@ -57,6 +57,11 @@ feature and wait for the usher to call on you.
   </ul>
 </details>
 
+<details>
+  <summary>Having trouble with Zoom?</summary>
+  <p>Check out our <a href="https://docs.google.com/document/d/1MExTk6okg_J-DLE5nTNDSr8zRliVzqWJxdWcZcl4_rU/edit?usp=sharing" rel="external" target="_blank">Problem-solving Zoom Issues</a> document.</p>
+</details>
+
 ## Sunday School
 
 Several of our Sunday School teachers are holding their classes online. If
