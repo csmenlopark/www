@@ -9,6 +9,9 @@ path = "/lectures-and-events/"
 
 # Upcoming Lectures & Events
 
+* [**Be Set Free**](/lectures-and-events/be-set-free-2022/) — a lecture given by
+**Nicole Virgil, CS** on October 8, 2022.
+
 Many lectures are happening each week around the world, and most are broadcast
 online. You can use ChristianScience.com's
 <a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">Find a lecture</a>
