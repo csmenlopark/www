@@ -1,5 +1,5 @@
 +++
-title = "Love without limit, Life without fear"
+title = "Be Set Free — October 8, 2022"
 path = "/lectures-and-events/be-set-free-2022/"
 aliases = [
   "/lecture2022/",
