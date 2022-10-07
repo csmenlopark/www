@@ -42,6 +42,15 @@ Find more resources for Christian Science Youth
 
 Check out summer programs for Christian Science youth.
 
+* <a href="https://www.campershipfund.org/">
+  The Campership Fund
+</a>
+
+* <a href="https://www.adventureunlimited.org/">
+  Adventure Unlimited
+  <img alt="Adventure Unlimited" src="/media/youth/au.jpg">
+</a>
+
 * <a href="https://www.cedarscamps.org/">
   CedarS Camps
   <img alt="CedarS Programs, Applications & More" src="/media/youth/cedars.jpg">
@@ -50,11 +59,6 @@ Check out summer programs for Christian Science youth.
 * <a href="https://www.newfound-owatonna.com/">
   Camp Newfound Owatonna
   <img alt="Camp Newfound" src="/media/youth/newfound.jpg">
-</a>
-
-* <a href="https://www.adventureunlimited.org/">
-  Adventure Unlimited
-  <img alt="Adventure Unlimited" src="/media/youth/au.jpg">
 </a>
 
 * <a href="https://www.crystallakecamps.org/">
