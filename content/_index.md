@@ -18,14 +18,6 @@ keywords = [
 ]
 +++
 
-<aside class="announcement-banner">
-  <a href="/lectures-and-events/be-set-free-2022/">
-    <strong>Upcoming lecture:</strong>
-    <span style="text-decoration: underline">Be Set Free</span>
-    on Saturday, October 8, at Burgess Park.
-  </a>
-</aside>
-
 <p><img alt="" src="/media/church-front.jpg" class="home-image"></p>
 
 <div class="content-and-sidebar">
