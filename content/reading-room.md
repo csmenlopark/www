@@ -16,7 +16,7 @@ Reading Rooms are open to people of all faiths, backgrounds, and ways of life.
 
 <dl>
   <dt>Hours</dt>
-  <dd>Monday – Friday, <time datetime="9:00">9 am</time> – <time datetime="17:00">5 pm</time><br>(yes, we're re-opened!)</dd>
+  <dd>Monday – Friday, <time datetime="9:00">9 am</time> – <time datetime="17:00">5 pm</time></dd>
   <dt>Address</dt>
   <dd><address>1127 Chestnut St<br>Menlo Park, CA 94025</address></dd>
   <dt>Phone</dt>
@@ -30,15 +30,13 @@ Reading Rooms are open to people of all faiths, backgrounds, and ways of life.
 ## Reading Room, SFO Terminal 1
 
 We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
-1.
+2.
 
 <dl>
   <dt>Hours</dt>
-  <dd><time datetime="8:00">8 am</time> – <time datetime="22:00">10 pm</time>, every day of the year</dd>
+  <dd><time datetime="8:00">8 am</time> – <time datetime="16:00">4 pm</time>, every day of the year</dd>
   <dt>Address</dt>
-  <dd>Terminal 1<br>San Francisco International Airport</dd>
-  <dt>Phone</dt>
-  <dd><a href="tel:+16508770105">(650) 877-0105</a></dd>
+  <dd>Terminal 2 (near Alaska Airlines)<br>San Francisco International Airport</dd>
   <dt>Website</dt>
   <dd><a href="https://csreadingroom-sfo.org/" rel="external">csreadingroom-sfo.org</a></dd>
 </dl>

@@ -11,9 +11,7 @@
 * Testimony Meeting: <time datetime="19:30">7:30 pm</time>
 * Held in-person and also [via Zoom](@/online-services.md)
 
-Each service lasts about 1 hour.  Following state guidelines, masks are required
-for individuals who have not been vaccinated and are optional otherwise. Please
-take into consideration social distancing.
+Each service lasts about 1 hour.
 
 <hr>
 
