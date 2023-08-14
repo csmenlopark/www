@@ -12,11 +12,9 @@ aliases = [
 
 # Online Services
 
-**Our services are [once again being held in-person]**, but we are continuing to
-broadcast the audio via Zoom using the same meeting information.  Please bear
-with us while we work out the kinks in our setup over the next few weeks.
+If you can't [join us in person], you can still attend our services via Zoom.
 
-[once again being held in-person]: @/services.md
+[join us in person]: @/services.md
 
 ## Sunday <time datetime="10:00">10:00 am</time> and Wednesday <time datetime="19:30">7:30 pm</time>
 
@@ -64,7 +62,7 @@ feature and wait for the usher to call on you.
 
 ## Sunday School
 
-Several of our Sunday School teachers are holding their classes online. If
+Some of our Sunday School teachers are able to hold their classes online. If
 you're interested, please reach out to our clerk at
 <a href="mailto:csmenloparkclerk@gmail.com">csmenloparkclerk@gmail.com</a> for
 information.
