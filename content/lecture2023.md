@@ -53,26 +53,4 @@ For more information, contact First Church of Christ, Scientist, Menlo Park at
 
 </div>
 
-<div class="highlight-box">
-
-# Zoom instructions
-
-The audio portion of the lecture will be available via Zoom. To listen, join the Zoom meeting in one of the following ways:
-
-* From your computer or smartphone:
-  1. Click this link:
-    <a class="button" href="https://us02web.zoom.us/j/174873568?pwd=eXh1emxnTFptYVBsZmFxTUxBMmk0UT09" rel="external" target="_blank">Join Meeting</a>
-    <br>
-  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
-  3. If prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
-
-<!---->
-* From a regular telephone:
-  1. Dial <a class="blue" href="tel:+16699009128">(669) 900-9128</a>
-  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
-  3. When prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
-  4. If prompted for a participant ID, dial <span class="phone-keypresses">#</span> to skip.
-
-</div>
-
 </section>
