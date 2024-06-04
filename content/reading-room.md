@@ -16,7 +16,7 @@ Reading Rooms are open to people of all faiths, backgrounds, and ways of life.
 
 <dl>
   <dt>Hours</dt>
-  <dd>Monday – Friday, <time datetime="9:00">9 am</time> – <time datetime="17:00">5 pm</time></dd>
+  <dd>Monday – Thursday, <time datetime="9:00">9 am</time> – <time datetime="17:00">5 pm</time></dd>
   <dt>Address</dt>
   <dd><address>1127 Chestnut St<br>Menlo Park, CA 94025</address></dd>
   <dt>Phone</dt>
