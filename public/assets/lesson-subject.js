@@ -55,10 +55,11 @@ document.addEventListener("DOMContentLoaded", (e) => {
     "Christ Jesus (probably? it's a 53rd Sunday)",
   ];
   const now = new Date();
-  const nextSunday = getNextSunday(new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()+6)));
-  const yearFirstSunday = getNextSunday(new Date(Date.UTC(nextSunday.getUTCFullYear(), 0, 1)));
+  const todayUTC = new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()));
+  const nextSundayUTC = getNextSunday(todayUTC);
+  const yearFirstSundayUTC = getNextSunday(new Date(Date.UTC(nextSundayUTC.getUTCFullYear(), 0, 1)));
   const weekMillis = 1000 * 60 * 60 * 24 * 7;
-  const sundayNumber = Math.floor((nextSunday - yearFirstSunday) / weekMillis);
+  const sundayNumber = Math.floor((nextSundayUTC - yearFirstSundayUTC) / weekMillis);
   const currentSubject = subjects[sundayNumber];
   var subjectSpan = document.getElementById("bible-lesson-subject");
   subjectSpan.innerHTML = currentSubject;
