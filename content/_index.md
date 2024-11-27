@@ -18,6 +18,13 @@ keywords = [
 ]
 +++
 
+<aside class="announcement-banner">
+  <a href="/online-services/">
+    <strong>Thanksgiving service:</strong>
+    Thursday, November 28, at 10:00 AM. Attend in-person or online using the <span style="text-decoration: underline">usual Zoom information</span>.
+  </a>
+</aside>
+
 <p><img alt="" src="/media/church-front.jpg" class="home-image"></p>
 
 <div class="content-and-sidebar">
