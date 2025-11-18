@@ -9,6 +9,8 @@ path = "/lectures-and-events/"
 
 # Upcoming Lectures & Events
 
+* [**Healing With Joy: Discovering the Power of Love**](/lectures-and-events/healing-with-joy-2025/) — a lecture being given by **Ann Kneeland, CS** on December 6, 2025.
+
 Many lectures are happening each week around the world, and most are broadcast
 online. You can use ChristianScience.com's
 <a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">Find a lecture</a>

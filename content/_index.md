@@ -24,6 +24,12 @@ keywords = [
     Thursday, November 27, at 10:00 AM. Attend in-person or online using the <span style="text-decoration: underline">usual Zoom information</span>.
   </a>
 </aside>
+<aside class="announcement-banner">
+  <a href="/lectures-and-events/healing-with-joy-2025/">
+    <strong>Upcoming lecture:</strong>
+    <span style="text-decoration: underline">Ann Kneeland: “Healing With Joy: Discovering the Power of Love”</span> on Saturday, December 6, at the Foster City Community Center
+  </a>
+</aside>
 
 <p><img alt="" src="/media/church-front.jpg" class="home-image"></p>
 
