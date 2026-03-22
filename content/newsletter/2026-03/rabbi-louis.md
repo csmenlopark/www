@@ -1,9 +1,16 @@
----
----
++++
+title = "Rabbi Louis"
++++
 
 <div>
 
 <article>
+
+# March 2026 Newsletter » Reading Rooms Shape Our Healings
+
+*(continued from the newsletter)*
+
+<img src=/media/reading-room-front.jpg class=float-right>
 
 He recalled: “I sat with the lady in this Reading Room, and told her about my father.” He doesn’t remember the specifics of the ideas discussed. However, he went home right away and told his father, “You’re going to recover completely.” And he did experience a healing. Looking back, the Rabbi said: “It is clear to me that probably those Scientists were praying.”
 
