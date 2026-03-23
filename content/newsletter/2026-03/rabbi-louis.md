@@ -1,5 +1,5 @@
 +++
-title = "Rabbi Louis"
+title = "Reading Rooms Shape Our Healings"
 +++
 
 <div>
