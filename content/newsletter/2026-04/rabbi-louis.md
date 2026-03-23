@@ -1,5 +1,6 @@
 +++
 title = "Reading Rooms Shape Our Healings"
+aliases = ["/newsletter/2026-03/rabbi-louis/"]
 +++
 
 <div>
