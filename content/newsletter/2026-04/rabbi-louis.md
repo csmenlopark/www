@@ -15,13 +15,11 @@ He recalled: “I sat with the lady in this Reading Room, and told her about my 
 
 To learn more about Louis’ experience, click here: [A RABBI TALKS ABOUT CHRISTIAN SCIENCE / Christian Science Sentinel](https://sentinel.christianscience.com/issues/2009/5/111-19/a-rabbi-talks-about-christian-science)
 
-<img src=/media/reading-room-front.jpg class="float-right large">
-
 A healing like this is the epitome of why you work in the Reading Room. Wanting to build on this spiritual approach to serving in the Reading Room, we held a roundtable interview with the staff of the Menlo Park Reading Room. The questions and answers follow:
 
 **Since the 15th century, how has the printed Holy Bible been received? Can you share stories of visitors’ interest or its influence on your healing practice?**
 
-Once the Bible was mass-produced, its influence grew rapidly. In the 17th and 18th centuries, the King James Version became central in households, shaping morals and influencing education and law. In the 19th century, Mary Baker Eddy founded Christian Science after a fall on ice, during which she read a New Testament account of Christ Jesus healing the sick. She was healed and began teaching spiritual healing principles. She wrote a textbook to explain this method, leading to her book *Science and Health with Key to Scriptures.* Starting in 1862, and continuing after her discovery, she intensely studied the King James Bible, which she termed her sole teacher. Eddy said, “God had been graciously preparing me during many years for the reception of this final revelation of the absolute divine Principle of scientific mental healing.” (*Science and Health with Key to the Scriptures*, Mary Baker Eddy, p. 107:3)
+Once the Bible was mass-produced, its influence grew rapidly. In the 17th and 18th centuries, the King James Version became central in households, shaping morals and influencing education and law. In the 19th century, Mary Baker Eddy founded Christian Science after a fall on ice, during which she read a New Testament account of Christ Jesus healing the sick. She was healed and began teaching spiritual healing principles. She wrote a textbook to explain this method, leading to her book *Science and Health with Key to Scriptures.* Starting in 1862, and continuing after her discovery, she intensely studied the King James Bible, which she termed her sole teacher. Eddy said, “God had been graciously preparing me during many years for the reception of this final revelation of the absolute divine Principle of scientific mental healing” (*Science and Health with Key to the Scriptures*, p. 107:3).
 
 Many visitors seek a Bible in our Reading Room. Today, in the 21st century, the Bible is among the most sold books, translated into many languages. The Bible is the basis of what we practice. It is one of our pastors and contains many words of comfort and inspiration that come when needed. For some time, there was a young woman who worked at a local clinic who would come in almost every day during her lunch break just to pray quietly and read the Bible.
 
@@ -34,6 +32,8 @@ At various times I have turned to the Bible for inspiration and have received gu
 **How have you seen Christian Science Reading Rooms bless the communities?**
 
 The community is blessed by welcoming windows displaying the healing truths of Christian Science. Entering, they are greeted cheerfully and offered help. They learn about our leader's healing intent with access to reference books, periodicals, and *Science and Health* *with Key to the Scriptures* by Mary Baker Eddy.
+
+<img src=/media/reading-room-front.jpg class="float-right large">
 
 Our window displays appeal to many passersby. We update the lesson citations in the marked books in the window daily. Because people stop to read the citations, many leave with a bit of truth to fill a need in their day. We have a cart of free literature outside that offers articles to take during Reading Room hours without entering, and a mounted box on the building accessible all day and night. I love that our Reading Room windows are lit at night, serving as a beacon of light and warmth to anyone passing by. We occasionally participate in community activities. Our dedicated volunteers are always ready to answer questions from seekers of truth who are curious and just want to learn about this place. We hold special events in the Reading Room for members and non-members. We have organized food drives at Thanksgiving, inviting all our neighboring businesses to join.
 
