@@ -29,14 +29,13 @@ Reading Rooms are open to people of all faiths, backgrounds, and ways of life.
 
 ## Reading Room, SFO Terminal 1
 
-We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
-2.
+We also invite you to visit the jointly-maintained Reading Room at SFO Terminal 1.
 
 <dl>
   <dt>Hours</dt>
-  <dd><time datetime="8:00">8 am</time> – <time datetime="16:00">4 pm</time>, every day of the year</dd>
+  <dd><time datetime="8:00">8 am</time> – <time datetime="16:00">4 pm</time> every day</dd>
   <dt>Address</dt>
-  <dd>Terminal 2 (near Alaska Airlines)<br>San Francisco International Airport</dd>
+  <dd>SFO Terminal 1<br>Departures Level, Door 9<br>San Francisco International Airport</dd>
   <dt>Website</dt>
   <dd><a href="https://csreadingroom-sfo.org/" rel="external">csreadingroom-sfo.org</a></dd>
 </dl>
